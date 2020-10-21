@@ -1,3 +1,6 @@
 [submodule "learn-go-with-tests"]
 	path = learn-go-with-tests
 	url = https://github.com/tomtomdurrant/learn-go-with-tests.git
+[submodule "go-getting-started"]
+	path = go-getting-started
+	url = https://github.com/tomtomdurrant/go-getting-started.git
