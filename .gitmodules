@@ -4,3 +4,6 @@
 [submodule "go-getting-started"]
 	path = go-getting-started
 	url = https://github.com/tomtomdurrant/go-getting-started.git
+[submodule "golang-temperature-converter-cli"]
+	path = golang-temperature-converter-cli
+	url = https://github.com/tomtomdurrant/golang-temperature-converter-cli.git
