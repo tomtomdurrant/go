@@ -7,3 +7,6 @@
 [submodule "golang-temperature-converter-cli"]
 	path = golang-temperature-converter-cli
 	url = https://github.com/tomtomdurrant/golang-temperature-converter-cli.git
+[submodule "go-cli-playbook"]
+	path = go-cli-playbook
+	url = https://github.com/tomtomdurrant/go-cli-playbook.git
